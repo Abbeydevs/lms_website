@@ -28,7 +28,7 @@ const Footer = () => {
             <strong>WhatsApp:</strong> +44 700 700 0000
           </p>
           <p>
-            <strong>Address:</strong> Wichester, Liverpool road, United Kingdom
+            <strong>Address:</strong> Wichester, Liverpool House, United Kingdom
           </p>
         </div>
       </div>
