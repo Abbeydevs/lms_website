@@ -55,6 +55,7 @@ const Tutors = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10">
         {tutors.map((tutor) => (
           <TutorCard
+            key={tutor.name}
             name={tutor.name}
             course={tutor.description}
             imgCover={tutor.imgCover}
